@@ -3,7 +3,8 @@
 Link do projeto: https://samuel-fsb.github.io/projeto-portifolio/
 
 Interface do projeto:
-<img width="1899" height="901" alt="projeto- portfolio" src="https://github.com/user-attachments/assets/e3773262-384d-4099-a34e-09d95ad4ead0" />
+<img width="1901" height="1077" alt="image" src="https://github.com/user-attachments/assets/15b19ae7-9866-41b7-8c65-ae4d4c2c2ba3" />
+
 
 
 📝 **Sobre o Projeto**
