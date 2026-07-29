@@ -1,6 +1,6 @@
-# Projeto Portfólio
+# Portfólio
 
-Link do projeto: https://samuel-fsb.github.io/projeto-portifolio/
+Link do projeto: https://samuel-fsb.github.io/portfolio/
 
 Interface do projeto:
 <img width="1901" height="1077" alt="image" src="https://github.com/user-attachments/assets/15b19ae7-9866-41b7-8c65-ae4d4c2c2ba3" />
