@@ -1,8 +1,8 @@
-# Portfólio
+<h1 align="center">Portfólio de Desenvolvedor Front-end</h1>
 
-Link do projeto: https://samuel-fsb.github.io/portfolio/
+Link do portfolio: https://samuel-fsb.github.io/portfolio/
 
-Interface do projeto:
+Interface do portfolio:
 <img width="1901" height="1077" alt="image" src="https://github.com/user-attachments/assets/58ac1da0-07d7-43b8-bb24-b2c068cc5428" />
 
 
